@@ -9,3 +9,4 @@ openai.api_base = "http://zanino.millennium.berkeley.edu:8000/v1"
 st.set_page_config(layout="wide")
 
 st.title('Web App for Generating Terraform Scripts')
+st.caption("🚀 A streamlit app powered by OpenAI LLM")
