@@ -1,2 +1,5 @@
 streamlit
 openai
+torch
+transformers
+gunicorn
